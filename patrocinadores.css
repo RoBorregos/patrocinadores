@@ -1,0 +1,49 @@
+.image-div {
+  width: 95%;
+  height: 350px;
+  /* border-radius: 21px 21px 0 0; */
+  border: #d0d0d0 4px solid;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.imagen-div-1 {
+  background-image: url(equipo1.jpg);
+}
+
+.imagen-div-2 {
+  background-image: url(equipo2.jpg);
+  /* background-position-y: 40%; */
+}
+
+.imagen-div-3 {
+  background-image: url(equipo3.jpg);
+}
+
+.imagen-div-4 {
+  background-image: url(equipo4.jpg);
+}
+
+.featurette-alone.featurette-heading {
+  margin-top: 0;
+}
+
+
+.logos-circulos {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  border: #777 2px solid;
+}
+
+.logos-circulos-1 {
+  background-image: url(fmr_logo.png);
+}
+
+.logos-circulos-2 {
+  background-image: url(robocup_logo.jpg);
+}
+
+.logos-circulos-3 {
+  background-image: url(cbr_logo.png);
+}
