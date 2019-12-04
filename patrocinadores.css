@@ -47,3 +47,12 @@
 .logos-circulos-3 {
   background-image: url(cbr_logo.png);
 }
+
+.patrocinadores-img {
+  height: 500px;
+  width: 500px;
+  background-image: url(equipo5.jpeg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
