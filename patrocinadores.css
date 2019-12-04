@@ -47,6 +47,13 @@
 
 .logos-circulos-3 {
   background-image: url(cbr_logo.png);
+  background-size: 80%;
+}
+
+.logos-circulos-4 {
+  background-image: url(@Home_AMIGO.jpg);
+  background-size: 150%;
+  background-position: left top;
 }
 
 .patrocinadores-img {
