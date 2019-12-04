@@ -9,6 +9,7 @@
 
 .imagen-div-1 {
   background-image: url(equipo1.jpg);
+  background-size: 110%;
 }
 
 .imagen-div-2 {
@@ -54,6 +55,11 @@
   background-image: url(@Home_AMIGO.jpg);
   background-size: 150%;
   background-position: left top;
+}
+
+.logos-circulos-5 {
+  background-image: url(equipo1_1.jpg);
+  background-size: 150%;
 }
 
 .patrocinadores-img {
