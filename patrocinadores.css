@@ -36,6 +36,7 @@
   background-size: contain;
   background-position: center;
   border: #777 2px solid;
+  background-color: white;
 }
 
 .logos-circulos-1 {
@@ -60,6 +61,21 @@
 .logos-circulos-5 {
   background-image: url(equipo1_1.jpg);
   background-size: 150%;
+}
+
+.logos-circulos-6 {
+  background-image: url(donacion.JPG);
+  background-size: 90%;
+}
+
+.logos-circulos-7 {
+  background-image: url(sponsorship.JPG);
+  background-size: 80%;
+}
+
+.logos-circulos-8 {
+  background-image: url(travel.JPG);
+  background-size: 80%;
 }
 
 .patrocinadores-img-div .patrocinadores-img {
