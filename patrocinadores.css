@@ -39,6 +39,13 @@
   background-color: white;
 }
 
+.logos-circulos2 {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-color: white;
+}
+
 .logos-circulos-1 {
   background-image: url(fmr_logo.png);
 }
